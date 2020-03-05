@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "request": "^2.88.2",
+    "round-to": "^4.1.0",
+    "serverless-offline": "^5.12.1"
+  }
+}
